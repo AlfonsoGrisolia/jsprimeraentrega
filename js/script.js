@@ -4,7 +4,7 @@ while (numero <= 10) {//
     numero ++
 }
 console.log('fin de los numeros '+numero)
-
+//busque informacion de como generar un nuemero random del 1 al 10 en internet
 let numeroMaquina = Math.floor(Math.random() * (10 - 1)) + 1; 
 console.log(numeroMaquina)
 
